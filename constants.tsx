@@ -3,6 +3,7 @@ import { Game } from './types';
 
 export const INITIAL_BETTERMATH_GAMES: Game[] = [
   { id: '1', title: '1', image: 'https://ultra3kh0cdn.netlify.app/projects/1/meta/apple-touch-icon.png', link: 'https://ultra3kh0cdn.netlify.app/projects/1/', source: 'BetterMath' },
+  { id: 'TIO', title: 'Territorial Io', image: 'https://tse4.mm.bing.net/th/id/OIP.EFUuDBmcwY4FyMntZK7bxgHaHX?rs=1&pid=ImgDetMain&o=7&rm=3', link: 'https://5jp1.github.io/ter', source: 'BetterMath' },
   { id: '1v1lol', title: '1v1.lol', image: 'https://ultra3kh0cdn.netlify.app/projects/1v1lol/splash.png', link: 'https://ultra3kh0cdn.netlify.app/projects/1v1lol/', source: 'BetterMath' },
   { id: '1v1space', title: '1v1.space', image: 'https://ultra3kh0cdn.netlify.app/projects/1v1space/splash.png', link: 'https://ultra3kh0cdn.netlify.app/projects/1v1space/', source: 'BetterMath' },
   { id: '10-minutes-till-dawn', title: '10 Minutes till dawn', image: 'https://ultra3kh0cdn.netlify.app/projects/10-minutes-till-dawn/splash.png', link: 'https://ultra3kh0cdn.netlify.app/projects/10-minutes-till-dawn/', source: 'BetterMath' },
