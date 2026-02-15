@@ -224,7 +224,7 @@ export const INITIAL_BETTERMATH_GAMES: Game[] = [
   { id: 'soldierlegend', title: 'Soilder Legend', image: 'https://ultra3kh0cdn.netlify.app/projects/soldier-legend/images/splash.jpeg', link: 'https://ultra3kh0cdn.netlify.app/projects/soldier-legend/', source: 'BetterMath' },
   { id: 'solitaire', title: 'Solitare', image: 'https://ultra3kh0cdn.netlify.app/projects/solitaire/screen-shot.png', link: 'https://ultra3kh0cdn.netlify.app/projects/solitaire/', source: 'BetterMath' },
   { id: 'sortthecourt', title: 'Sort The Court', image: 'https://ultra3kh0cdn.netlify.app/projects/sort-the-court/img/splash.png', link: 'https://ultra3kh0cdn.netlify.app/projects/sort-the-court/', source: 'BetterMath' },
-  { id: 'soundboard', title: 'Soundboard', image: 'https://ultra3kh0cdn.netlify.app/projects/soundboard/img/mlg-favicon.png', link: 'https://ultra3kh0cdn.netlify.app/projects/soundboard/', source: 'BetterMath' },
+  { id: 'soundboard', title: 'Soundboard', image: 'https://ultra3kh0cdn.netlify.app/projects/soundboard/img/mlg-favicon.png', link: 'https://5jp1.github.io/soundboard', source: 'BetterMath' },
   { id: 'spacecompany', title: 'Space Company', image: 'https://ultra3kh0cdn.netlify.app/projects/space-company/Icons/SpaceCompanyFavicon.png', link: 'https://ultra3kh0cdn.netlify.app/projects/space-company/', source: 'BetterMath' },
   { id: 'spacegarden', title: 'Space Garden', image: 'https://ultra3kh0cdn.netlify.app/projects/spacegarden/spl.png', link: 'https://ultra3kh0cdn.netlify.app/projects/spacegarden/', source: 'BetterMath' },
   { id: 'spinningrat', title: 'Spinning Rat', image: 'https://ultra3kh0cdn.netlify.app/projects/spinningrat/apple-touch-icon.png', link: 'https://ultra3kh0cdn.netlify.app/projects/spinningrat/', source: 'BetterMath' },
