@@ -214,6 +214,7 @@ export const INITIAL_BETTERMATH_GAMES: Game[] = [
   { id: 'slimerushtd', title: 'Slime Rush TD', image: 'https://ultra3kh0cdn.netlify.app/projects/slime-rush-td/splash.png', link: 'https://ultra3kh0cdn.netlify.app/projects/slime-rush-td/', source: 'BetterMath' },
   { id: 'slope', title: 'Slope', image: 'https://ultra3kh0cdn.netlify.app/projects/slope/slope4.jpeg', link: 'https://ultra3kh0cdn.netlify.app/projects/slope/', source: 'BetterMath' },
   { id: 'slope-2', title: 'Slope 2', image: 'https://ultra3kh0cdn.netlify.app/projects/slope-2/slope-2-logo.png', link: 'https://ultra3kh0cdn.netlify.app/projects/slope-2/', source: 'BetterMath' },
+  { id: 'slope-3', title: 'Slope 3', image: 'https://tse1.mm.bing.net/th/id/OIP._RQtj6IWQS-G6wR_Xe4vzAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3', link: 'https://5jp1.github.io/slope3', source: 'BetterMath' },
   { id: 'slopeball', title: 'Slope Ball', image: 'https://ultra3kh0cdn.netlify.app/projects/slope-ball/splash.png', link: 'https://ultra3kh0cdn.netlify.app/projects/slope-ball/', source: 'BetterMath' },
   { id: 'sm64', title: 'Super Mario 64', image: 'https://ultra3kh0cdn.netlify.app/projects/sm64/logo.png', link: 'https://ultra3kh0cdn.netlify.app/projects/sm64/', source: 'BetterMath' },
   { id: 'smashcarts', title: 'Smash Carts', image: 'https://ultra3kh0cdn.netlify.app/projects/smashkarts/images/icon-512.png', link: 'https://ultra3kh0cdn.netlify.app/projects/smashkarts/', source: 'BetterMath' },
