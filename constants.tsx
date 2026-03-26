@@ -3,7 +3,7 @@ import { Game } from './types';
 export const INITIAL_BETTERMATH_GAMES: Game[] = [
   { id: '1', title: '1', image: 'https://5jp1.github.io/theassets/1/meta/apple-touch-icon.png', link: 'https://5jp1.github.io/theassets/1/', source: 'BetterMath' },
   { id: 'TIO', title: 'Territorial Io', image: 'https://tse4.mm.bing.net/th/id/OIP.EFUuDBmcwY4FyMntZK7bxgHaHX?rs=1&pid=ImgDetMain&o=7&rm=3', link: 'https://5jp1.github.io/ter', source: 'BetterMath' },
-  { id: '1v1lol', title: 'amperminecraft', image: 'https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/12/Minecraft_Launcher_MS_Icon.png/revision/latest/scale-to-width-down/250?cb=20230618110121', link: 'https://irv77.github.io/AmplerLauncher/', source: 'BetterMath' },
+  { id: '1v1lol', title: 'EaglerCraft', image: 'https://ipindexing.com/media/journal-cover-page/eaglercraft-x-favicon.png', link: 'https://5jp1.github.io/lax1dude', source: 'BetterMath' },
   { id: '1v1space', title: '1v1.space', image: 'https://5jp1.github.io/theassets/1v1space/splash.png', link: 'https://5jp1.github.io/theassets/1v1space/', source: 'BetterMath' },
   { id: '10-minutes-till-dawn', title: '10 Minutes till dawn', image: 'https://5jp1.github.io/theassets/10-minutes-till-dawn/splash.png', link: 'https://5jp1.github.io/theassets/10-minutes-till-dawn/', source: 'BetterMath' },
   { id: '100playerpong', title: '100 Player Pong', image: 'https://5jp1.github.io/theassets/100ng/100ng.jpg', link: 'https://5jp1.github.io/theassets/100ng/', source: 'BetterMath' },
