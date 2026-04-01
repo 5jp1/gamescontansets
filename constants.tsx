@@ -30,7 +30,7 @@ export const INITIAL_BETTERMATH_GAMES: Game[] = [
   { id: 'ballisticchickens', title: 'Ballistic Chickens', image: 'https://5jp1.github.io/theassets/ballistic-chickens/logo.png', link: 'https://5jp1.github.io/theassets/ballistic-chickens/', source: 'BetterMath' },
   { id: 'basketballstars', title: 'Basketball Stars', image: 'https://5jp1.github.io/theassets/basketball-stars/assets/images/basketball-stars.png', link: 'https://5jp1.github.io/theassets/basketball-stars/', source: 'BetterMath' },
   { id: 'basketbros', title: 'Basketbros.io', image: 'https://5jp1.github.io/theassets/basketbros-io/thumb.jpg', link: 'https://5jp1.github.io/theassets/basketbros-io/', source: 'BetterMath' },
-  { id: 'battleforgondor', title: 'Battle for Gondor', image: 'https://5jp1.github.io/theassets/battleforgondor/battleforgondor.JPG', link: 'https://5jp1.github.io/theassets/battleforgondor/', source: 'BetterMath' },
+  { id: 'battleforgondor', title: 'Idaft Jamming', image: 'https://5jp1.github.io/idaft.png', link: 'https://5jp1.github.io/idaft/', source: 'BetterMath' },
   { id: 'bigredbutton', title: 'Big Red Button', image: 'https://5jp1.github.io/theassets/bigredbutton/bigredbutton.png', link: 'https://5jp1.github.io/theassets/bigredbutton/', source: 'BetterMath' },
   { id: 'bitlife', title: 'Bitlife', image: 'https://5jp1.github.io/theassets/bitlife/logo.png', link: 'https://5jp1.github.io/theassets/bitlife/', source: 'BetterMath' },
   { id: 'blackholesquare', title: 'Black Hole Square', image: 'https://5jp1.github.io/theassets/blacholesquare/icon.png', link: 'https://5jp1.github.io/theassets/blacholesquare/', source: 'BetterMath' },
