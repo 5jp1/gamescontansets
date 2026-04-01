@@ -290,8 +290,8 @@ export const INITIAL_BETTERMATH_GAMES: Game[] = [
   { id: 'xx142b2exe', title: 'xx142-b2exe', image: 'https://5jp1.github.io/theassets/xx142-b2exe/splash.png', link: 'https://5jp1.github.io/theassets/xx142-b2exe/', source: 'BetterMath' },
   { id: 'yoshifab', title: "Yoshi's Fabrication Station", image: 'https://5jp1.github.io/theassets/yoshifabrication/icons/icon-512.png', link: 'https://5jp1.github.io/theassets/yoshifabrication/', source: 'BetterMath' },
   { id: 'bezos', title: 'You Are Jeff Bezos', image: 'https://5jp1.github.io/theassets/you-are-bezos/img/banner.png', link: 'https://5jp1.github.io/theassets/you-are-bezos/', source: 'BetterMath' },
-  { id: 'zombsroyale', title: 'Zombs Royale', image: 'https://5jp1.github.io/theassets/zombs-royale/zomb.png', link: 'https://5jp1.github.io/theassets/zombs-royale/', source: 'BetterMath' }
-  { id: 'fnae', title: 'Five Nights at Epsteins ' , image: 'https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/12/1200/675/Jeffrey-Epstein-mugshot.jpg?ve=1&tl=1', link: 'https://5jp1.github.io/fane', source: 'BetterMath' },
+  { id: 'zombsroyale', title: 'FNaE', image: 'https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/12/1200/675/Jeffrey-Epstein-mugshot.jpg?ve=1&tl=1', link: 'https://5jp1.github.io/fane', source: 'BetterMath' }
+  
 ];
 
 export const INITIAL_PLUGPLAY_GAMES: Game[] = [
