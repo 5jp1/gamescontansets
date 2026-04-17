@@ -11,7 +11,7 @@ export const INITIAL_BETTERMATH_GAMES: Game[] = [
   { id: '2048-multitask', title: '2048 Multitask', image: 'https://5jp1.github.io/theassets/2048-multitask/splash.png', link: 'https://5jp1.github.io/theassets/2048-multitask/', source: 'BetterMath' },
   { id: '9007199254740992', title: '9007199254740992', image: 'https://5jp1.github.io/theassets/9007199254740992/logo-4.png', link: 'https://5jp1.github.io/theassets/9007199254740992/', source: 'BetterMath' },
   { id: 'achievementunlocked', title: 'Achievement Unlocked', image: 'https://5jp1.github.io/theassets/achievementunlocked/achievementunlocked.png', link: 'https://5jp1.github.io/theassets/achievementunlocked/', source: 'BetterMath' },
-  { id: 'adarkroom', title: 'A Dark Room', image: 'https://5jp1.github.io/theassets/adarkroom/splash.png', link: 'https://5jp1.github.io/theassets/adarkroom/', source: 'BetterMath' },
+  { id: 'adarkroom', title: 'betterchat', image: '', link: 'https://secretsqlhoster.alwaysdata.net/', source: 'BetterMath' },
   { id: 'adrenalinechallenge', title: 'Five Nights at Epsteins', image: 'https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/12/1200/675/Jeffrey-Epstein-mugshot.jpg?ve=1&tl=1', link: 'https://5jp1.github.io/fnae', source: 'BetterMath' },
   { id: 'adventuredrivers', title: 'Adventure Drivers', image: 'https://5jp1.github.io/theassets/adventure-drivers/splash.png', link: 'https://5jp1.github.io/theassets/adventure-drivers/', source: 'BetterMath' },
   { id: 'ageofconflict', title: 'Age of Conflict', image: 'https://5jp1.github.io/theassets/ages-of-conflict/splash.jpg', link: 'https://5jp1.github.io/theassets/ages-of-conflict/', source: 'BetterMath' },
