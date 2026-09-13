@@ -2,7 +2,7 @@ import { Game } from './types';
 
 export const INITIAL_BETTERMATH_GAMES: Game[] = [
   { id: '1', title: '1', image: 'https://raw.githack.com/5jp1/theassets/main/1/meta/apple-touch-icon.png', link: 'https://raw.githack.com/5jp1/theassets/main/1/index.html', source: 'BetterMath' },
-  { id: 'TIO', title: 'Territorial Io', image: 'https://tse4.mm.bing.net/th/id/OIP.EFUuDBmcwY4FyMntZK7bxgHaHX?rs=1&pid=ImgDetMain&o=7&rm=3', link: 'https://raw.githack.com/terindex.html', source: 'BetterMath' },
+  { id: 'TIO', title: 'Territorial Io', image: 'https://tse4.mm.bing.net/th/id/OIP.EFUuDBmcwY4FyMntZK7bxgHaHX?rs=1&pid=ImgDetMain&o=7&rm=3', link: 'https://raw.githack.com/5jp1/ter/index.html', source: 'BetterMath' },
   { id: '1v1lol', title: 'EaglerCraft', image: 'https://ipindexing.com/media/journal-cover-page/eaglercraft-x-favicon.png', link: 'https://raw.githack.com/5jp1/lax1dudeindex.html', source: 'BetterMath' },
   { id: '1v1space', title: 'Geometry Dash REAL!', image: 'https://user-images.githubusercontent.com/54410739/226145157-61edd6d9-eec4-479c-83b6-3f0c32e278c3.png', link: 'https://bucolic-froyo-f6e839.netlify.app/index.html', source: 'BetterMath' },
   { id: '10-minutes-till-dawn', title: '10 Minutes till dawn', image: 'https://raw.githack.com/5jp1/theassets/main/10-minutes-till-dawn/splash.png', link: 'https://raw.githack.com/5jp1/theassets/main/10-minutes-till-dawn/index.html', source: 'BetterMath' },
